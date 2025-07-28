@@ -140,6 +140,7 @@
 
 3. **GoogleフォームURL**
    - `script.js`内の`googleFormUrl`変数
+   - 実際のURL: https://docs.google.com/forms/d/e/1FAIpQLSd8UdacJj3xqT--bMaUWk8uPbcI6NfNxUwz4d84vUUPloUXbg/viewform?usp=sharing&ouid=106510367837705548959
 
 4. **会社情報**
    - フッターの運営会社名

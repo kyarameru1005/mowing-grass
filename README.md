@@ -57,7 +57,7 @@ php -S localhost:8000
 `script.js`の以下の行を実際のGoogleフォームURLに変更：
 
 ```javascript
-const googleFormUrl = 'https://forms.google.com/your-form-url';
+const googleFormUrl = 'https://docs.google.com/forms/d/e/1FAIpQLSd8UdacJj3xqT--bMaUWk8uPbcI6NfNxUwz4d84vUUPloUXbg/viewform?usp=sharing&ouid=106510367837705548959';
 ```
 
 ### 3. 写真の追加

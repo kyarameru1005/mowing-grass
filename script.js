@@ -129,8 +129,8 @@ document.addEventListener('DOMContentLoaded', function() {
     
     if (contactForm) {
         contactForm.addEventListener('click', function(e) {
-            // 実際のGoogleフォームURLに置き換えてください
-            const googleFormUrl = 'https://forms.google.com/your-form-url';
+            // 実際のGoogleフォームURL
+            const googleFormUrl = 'https://docs.google.com/forms/d/e/1FAIpQLSd8UdacJj3xqT--bMaUWk8uPbcI6NfNxUwz4d84vUUPloUXbg/viewform?usp=sharing&ouid=106510367837705548959';
             
             // 新しいタブでGoogleフォームを開く
             window.open(googleFormUrl, '_blank');
